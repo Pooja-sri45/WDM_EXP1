@@ -55,12 +55,14 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 EMPLOYEE TABLE:
 
-![image](https://github.com/user-attachments/assets/7f01d752-a37a-4886-ab97-98ea4b099143)
+![emp 1](https://github.com/user-attachments/assets/faf15037-04cf-4557-bb57-3fe535951e8d)
+BLE:
+
 
 
 WEATHER TABLE:
 
-![image](https://github.com/user-attachments/assets/442003a2-e869-465a-b953-e230de8a0354)
+![weather 1](https://github.com/user-attachments/assets/c02147d2-b785-4c95-b773-f654d34acc9b)
 
 ### PREPROCESSING
 ### Procedure:
@@ -84,11 +86,12 @@ WEATHER TABLE:
 
 EMPLOYEE TABLE after adding new attributes ADDRESS:
 
-![image](https://github.com/user-attachments/assets/242ed9e4-11ab-41df-a608-e4ca38490cb3)
+![emp 2](https://github.com/user-attachments/assets/b79667d3-71ad-4fd7-b7d0-4a54bd93e28e)
+
 
 WEATHER TABLE after adding new attribute CLIMATE:
 
-![image](https://github.com/user-attachments/assets/fc0c1557-f6d4-4842-9e97-268d2beb298a)
+![weather 2](https://github.com/user-attachments/assets/303919fd-10a4-4c56-98b9-112aedd7511f)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -108,7 +111,9 @@ WEATHER TABLE after adding new attribute CLIMATE:
 
 Employee Table after removing attributes SALARY ,GENDER:
 
-![image](https://github.com/user-attachments/assets/4c65a270-2821-462a-b8d6-bd204dc0e66c)
+
+![EMP 3](https://github.com/user-attachments/assets/db6977ba-ab09-4ac2-9ed9-bd6ca295aee4)
+
 
 Weather Table after removing attributes WINDY,PLAY
 
@@ -132,13 +137,12 @@ Weather Table after removing attributes WINDY,PLAY
 
 Employee Table after Normalizing ID,EXP,PHONE:
 
-![image](https://github.com/user-attachments/assets/e388d193-2c7e-48b4-9892-0e086bcd269f)
+![EMP 4](https://github.com/user-attachments/assets/798a92f0-0586-4d88-bf49-f5fe5d6c918e)
 
 
 Weather Table after Normalizing TEMPERATURE,HUMIDITY:
 
-![image](https://github.com/user-attachments/assets/df62d93f-8f84-46bb-9f57-7b3bfa359bb2)
-
+![WEATHER 4](https://github.com/user-attachments/assets/02312c78-67aa-430b-84bf-d12e35ec84e8)
 
 
 
