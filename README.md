@@ -130,14 +130,17 @@ Weather Table after removing attributes WINDY,PLAY
 
 ### OUTPUT:
 
-Weather Table
+Employee Table after Normalizing ID,EXP,PHONE:
+
+![image](https://github.com/user-attachments/assets/e388d193-2c7e-48b4-9892-0e086bcd269f)
+
+
+Weather Table after Normalizing TEMPERATURE,HUMIDITY:
 
 ![image](https://github.com/user-attachments/assets/df62d93f-8f84-46bb-9f57-7b3bfa359bb2)
 
 
-Employee Table:
 
-![image](https://github.com/user-attachments/assets/e388d193-2c7e-48b4-9892-0e086bcd269f)
 
 
 ### RESULT: 
