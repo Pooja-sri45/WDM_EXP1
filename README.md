@@ -56,13 +56,12 @@ rainy,75.0,80.0,false,yes
 EMPLOYEE TABLE:
 
 ![emp 1](https://github.com/user-attachments/assets/faf15037-04cf-4557-bb57-3fe535951e8d)
-BLE:
-
 
 
 WEATHER TABLE:
 
 ![weather 1](https://github.com/user-attachments/assets/c02147d2-b785-4c95-b773-f654d34acc9b)
+
 
 ### PREPROCESSING
 ### Procedure:
