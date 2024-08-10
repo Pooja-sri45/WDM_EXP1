@@ -81,14 +81,14 @@ WEATHER TABLE:
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-WEATHER TABLE after adding new attribute CLIMATE:
-
-![image](https://github.com/user-attachments/assets/fc0c1557-f6d4-4842-9e97-268d2beb298a)
 
 EMPLOYEE TABLE after adding new attributes ADDRESS:
 
 ![image](https://github.com/user-attachments/assets/242ed9e4-11ab-41df-a608-e4ca38490cb3)
 
+WEATHER TABLE after adding new attribute CLIMATE:
+
+![image](https://github.com/user-attachments/assets/fc0c1557-f6d4-4842-9e97-268d2beb298a)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -105,13 +105,14 @@ EMPLOYEE TABLE after adding new attributes ADDRESS:
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-Weather Table after removing attributes WINDY,PLAY
-
-![image](https://github.com/user-attachments/assets/b59e9731-15af-47bc-8e4f-836a4ae0cd1c)
 
 Employee Table after removing attributes SALARY ,GENDER:
 
 ![image](https://github.com/user-attachments/assets/4c65a270-2821-462a-b8d6-bd204dc0e66c)
+
+Weather Table after removing attributes WINDY,PLAY
+
+![image](https://github.com/user-attachments/assets/b59e9731-15af-47bc-8e4f-836a4ae0cd1c)
 
 ### Normalize -> Pre-Processing Technique:
 
